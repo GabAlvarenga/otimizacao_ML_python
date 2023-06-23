@@ -1,3 +1,3 @@
-# CursoProgramacaoAvancadaENCE
-Comparação entre os algoritimos RandomGrid e SearchGrid
+# Comparação entre os algoritimos RandomGrid e SearchGrid
+
 
